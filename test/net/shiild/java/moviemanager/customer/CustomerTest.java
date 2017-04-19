@@ -1,12 +1,12 @@
 /**
  * 
  */
-package net.shiild.java.flix.customer;
+package net.shiild.java.moviemanager.customer;
 
 import static org.junit.Assert.*;
 
-import net.shiild.java.flix.inventory.Movie;
-import net.shiild.java.flix.list_util.MultiPurposeList;
+import net.shiild.java.moviemanager.inventory.Movie;
+import net.shiild.java.moviemanager.list_util.MultiPurposeList;
 import org.junit.Before;
 import org.junit.Test;
 

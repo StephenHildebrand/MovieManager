@@ -1,11 +1,11 @@
 /**
  *
  */
-package net.shiild.java.flix.rental_system;
+package net.shiild.java.moviemanager.rental_system;
 
-import net.shiild.java.flix.customer.Customer;
-import net.shiild.java.flix.inventory.Movie;
-import net.shiild.java.flix.inventory.MovieDB;
+import net.shiild.java.moviemanager.customer.Customer;
+import net.shiild.java.moviemanager.inventory.Movie;
+import net.shiild.java.moviemanager.inventory.MovieDB;
 
 /**
  * Represents the inventory part of the overall system in the context of a

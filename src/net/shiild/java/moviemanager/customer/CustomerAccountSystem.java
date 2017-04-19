@@ -1,9 +1,9 @@
 /**
  *
  */
-package net.shiild.java.flix.customer;
+package net.shiild.java.moviemanager.customer;
 
-import net.shiild.java.flix.rental_system.RentalManager;
+import net.shiild.java.moviemanager.rental_system.RentalManager;
 
 /**
  * Represents the customer part of the overall system and implements

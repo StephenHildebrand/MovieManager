@@ -1,8 +1,8 @@
-package net.shiild.java.flix.customer;
+package net.shiild.java.moviemanager.customer;
 
 /**
- * Describes behaviors of a customer management systems that permits user login.
- * The management system has an administrator.
+ * Describes behaviors of a customer management system that permits user login.
+ * The management system has an administrator that may log in via the same interface.
  *
  * @author StephenHildebrand
  */

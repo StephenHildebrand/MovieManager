@@ -1,14 +1,14 @@
 /**
  * 
  */
-package net.shiild.java.flix.list_util;
+package net.shiild.java.moviemanager.list_util;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import net.shiild.java.flix.inventory.Movie;
+import net.shiild.java.moviemanager.inventory.Movie;
 
 /**
  * Test class for MultiPurposeList.

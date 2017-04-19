@@ -1,11 +1,11 @@
 /**
  *
  */
-package net.shiild.java.flix.inventory;
+package net.shiild.java.moviemanager.inventory;
 
 import java.io.*;
 
-import net.shiild.java.flix.list_util.MultiPurposeList;
+import net.shiild.java.moviemanager.list_util.MultiPurposeList;
 
 /**
  * An internal database of movies that uses a MultiPurposeList of Movies for

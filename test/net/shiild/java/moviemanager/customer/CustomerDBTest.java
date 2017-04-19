@@ -1,7 +1,7 @@
 /**
  * 
  */
-package net.shiild.java.flix.customer;
+package net.shiild.java.moviemanager.customer;
 
 import static org.junit.Assert.*;
 

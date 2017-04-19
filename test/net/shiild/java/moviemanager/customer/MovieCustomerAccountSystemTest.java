@@ -1,11 +1,11 @@
 /**
  * 
  */
-package net.shiild.java.flix.customer;
+package net.shiild.java.moviemanager.customer;
 
 import org.junit.Before;
 
-import net.shiild.java.flix.rental_system.RentalManager;
+import net.shiild.java.moviemanager.rental_system.RentalManager;
 
 /**
  * Test class for CustomerAccountSystem

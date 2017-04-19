@@ -1,11 +1,11 @@
 /**
  * 
  */
-package net.shiild.java.flix.rental_system;
+package net.shiild.java.moviemanager.rental_system;
 
 import static org.junit.Assert.*;
 
-import net.shiild.java.flix.customer.Customer;
+import net.shiild.java.moviemanager.customer.Customer;
 import org.junit.Before;
 import org.junit.Test;
 

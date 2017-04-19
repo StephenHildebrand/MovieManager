@@ -1,19 +1,18 @@
 /**
  *
  */
-package net.shiild.java.flix.customer;
+package net.shiild.java.moviemanager.customer;
 
 /**
- * A database that maintains a list of�Customers and provides the list
+ * A database that maintains a list of Customers and provides the list
  * operations required to support the single-customer operations described in
  * CustomerAccountManager.
  * <p>
  * The customer list is implemented as an array-based list, using 3 variables:
- * (1) MAX_SIZE: The maximum capacity of the list.
+ * (1) MAX_SIZE: The maximum capacity of the list (max number of customers).
  * (2) list: An array of customers (the type is Customer[]).
- * (3) size.
- * <p>
- * The number of array elements that are actually customers in the database.
+ * (3) size: The number of array elements that are actually customers in the database.
+ *
  * Unless size is 0, the index of the last customer in the database is size - 1.
  * When you add a new customer to the list, make sure to insert it in the proper
  * position relative to the other customers already in the list.
