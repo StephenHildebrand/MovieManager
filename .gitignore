@@ -18,7 +18,7 @@ gen/
 hs_err_pid*
 
 ## Eclipse
-#.project
+.project
 *.pydevproject
 .metadata
 *.swp
