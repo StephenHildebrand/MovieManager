@@ -1,10 +1,10 @@
 /**
  *
  */
-package net.shiild.java.moviemanager.customer;
+package net.shiild.moviemanager.customer;
 
-import net.shiild.java.moviemanager.inventory.Movie;
-import net.shiild.java.moviemanager.list_util.MultiPurposeList;
+import net.shiild.moviemanager.inventory.Movie;
+import net.shiild.moviemanager.list_util.MultiPurposeList;
 
 /**
  * Represents a customer in the movie system customer. Each customer has

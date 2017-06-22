@@ -1,12 +1,15 @@
 /**
  * 
  */
-package net.shiild.java.moviemanager.customer;
+package net.shiild.moviemanager.customer;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import net.shiild.moviemanager.customer.Customer;
+import net.shiild.moviemanager.customer.CustomerDB;
 
 /**
  * Test class for CustomerDB class.

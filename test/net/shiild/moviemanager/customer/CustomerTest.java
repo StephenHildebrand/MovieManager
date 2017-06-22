@@ -1,12 +1,14 @@
 /**
  * 
  */
-package net.shiild.java.moviemanager.customer;
+package net.shiild.moviemanager.customer;
 
 import static org.junit.Assert.*;
 
-import net.shiild.java.moviemanager.inventory.Movie;
-import net.shiild.java.moviemanager.list_util.MultiPurposeList;
+import net.shiild.moviemanager.customer.Customer;
+import net.shiild.moviemanager.inventory.Movie;
+import net.shiild.moviemanager.list_util.MultiPurposeList;
+
 import org.junit.Before;
 import org.junit.Test;
 

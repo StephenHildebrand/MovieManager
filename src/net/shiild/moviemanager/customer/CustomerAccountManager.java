@@ -1,4 +1,4 @@
-package net.shiild.java.moviemanager.customer;
+package net.shiild.moviemanager.customer;
 
 /**
  * Describes behaviors of a customer management system that permits user login.

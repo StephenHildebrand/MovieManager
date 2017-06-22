@@ -1,11 +1,12 @@
 /**
  * 
  */
-package net.shiild.java.moviemanager.customer;
+package net.shiild.moviemanager.customer;
 
 import org.junit.Before;
 
-import net.shiild.java.moviemanager.rental_system.RentalManager;
+import net.shiild.moviemanager.customer.CustomerAccountSystem;
+import net.shiild.moviemanager.rental_system.RentalManager;
 
 /**
  * Test class for CustomerAccountSystem

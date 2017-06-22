@@ -1,7 +1,7 @@
 /**
  *
  */
-package net.shiild.java.moviemanager.inventory;
+package net.shiild.moviemanager.inventory;
 
 import java.util.Scanner;
 

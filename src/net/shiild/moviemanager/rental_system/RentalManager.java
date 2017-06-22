@@ -1,6 +1,6 @@
-package net.shiild.java.moviemanager.rental_system;
+package net.shiild.moviemanager.rental_system;
 
-import net.shiild.java.moviemanager.customer.Customer;
+import net.shiild.moviemanager.customer.Customer;
 
 /**
  * Interface for a rental system where the items for rent are stored in an

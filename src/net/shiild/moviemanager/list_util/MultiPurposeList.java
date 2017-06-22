@@ -1,7 +1,7 @@
 /**
  *
  */
-package net.shiild.java.moviemanager.list_util;
+package net.shiild.moviemanager.list_util;
 
 /**
  * A generic class that supports the underlying list operations for the movie

@@ -1,13 +1,15 @@
 /**
  * 
  */
-package net.shiild.java.moviemanager.rental_system;
+package net.shiild.moviemanager.rental_system;
 
 import static org.junit.Assert.*;
 
-import net.shiild.java.moviemanager.customer.Customer;
 import org.junit.Before;
 import org.junit.Test;
+
+import net.shiild.moviemanager.customer.Customer;
+import net.shiild.moviemanager.rental_system.MovieRentalSystem;
 
 /**
  * Test class for MovieRentalSystem

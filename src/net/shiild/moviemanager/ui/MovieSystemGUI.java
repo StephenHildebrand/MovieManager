@@ -1,4 +1,4 @@
-package net.shiild.java.moviemanager.ui;
+package net.shiild.moviemanager.ui;
 
 import java.awt.*;
 import java.awt.event.*;
@@ -8,10 +8,10 @@ import java.util.Scanner;
 import javax.swing.*;
 import javax.swing.border.*;
 
-import net.shiild.java.moviemanager.customer.CustomerAccountManager;
-import net.shiild.java.moviemanager.customer.CustomerAccountSystem;
-import net.shiild.java.moviemanager.rental_system.MovieRentalSystem;
-import net.shiild.java.moviemanager.rental_system.RentalManager;
+import net.shiild.moviemanager.customer.CustomerAccountManager;
+import net.shiild.moviemanager.customer.CustomerAccountSystem;
+import net.shiild.moviemanager.rental_system.MovieRentalSystem;
+import net.shiild.moviemanager.rental_system.RentalManager;
 
 /**
  * The graphical user interface (GUI) for the project. As indicated in the UML diagram,

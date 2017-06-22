@@ -1,14 +1,15 @@
 /**
  * 
  */
-package net.shiild.java.moviemanager.list_util;
+package net.shiild.moviemanager.list_util;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import net.shiild.java.moviemanager.inventory.Movie;
+import net.shiild.moviemanager.inventory.Movie;
+import net.shiild.moviemanager.list_util.MultiPurposeList;
 
 /**
  * Test class for MultiPurposeList.

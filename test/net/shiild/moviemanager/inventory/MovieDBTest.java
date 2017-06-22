@@ -1,12 +1,14 @@
 /**
  * 
  */
-package net.shiild.java.moviemanager.inventory;
+package net.shiild.moviemanager.inventory;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import net.shiild.moviemanager.inventory.MovieDB;
 
 /**
  * Test class for MovieDB.

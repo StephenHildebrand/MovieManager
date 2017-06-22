@@ -1,7 +1,7 @@
 /**
  *
  */
-package net.shiild.java.moviemanager.customer;
+package net.shiild.moviemanager.customer;
 
 /**
  * A database that maintains a list of Customers and provides the list
