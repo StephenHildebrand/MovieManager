@@ -1,3 +1,14 @@
-/bin/
+# bin/build output directory (which includes .class files)
+bin/
 
-.idea/workspace.xml
+# Ignore temporary files that end with ~
+*~
+
+# Eclipse settings directory
+.settings/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
